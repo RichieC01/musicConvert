@@ -1,5 +1,9 @@
 # musicConvert
 
+
+NOTE: Will only work if you have a Chrome browser installed, and if you have a Mac.
+
+
 Picking songs
   1. Open musicConvert.txt
   2. Paste youtube links with a new line for each link
