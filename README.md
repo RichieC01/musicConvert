@@ -7,8 +7,7 @@ Picking songs
 
 Executing
   1. Double click on the file musicConvertExe
-    a. The first time may not let you open because of Mac security
-  2. Double click again. Choose 'Open'
+  1. The first time may not let you open because of Mac security. If that happens, try clicking it again, then choose 'Open'
   
 If musicConvertExe file will not open
   1. Open musicConvert.scpt
