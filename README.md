@@ -1,7 +1,7 @@
 # musicConvert
 
 
-NOTE: Will only work if you have a Chrome browser installed, and if you have a Mac.
+NOTE: Will only work if you have the Google Chrome browser installed, and if you have a Mac.
 
 
 Picking songs
